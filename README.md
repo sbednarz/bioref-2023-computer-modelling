@@ -1,4 +1,4 @@
-# bioref-2022-computer-modelling
+# Computer modelling in chemical technology
 The course is a part of the BIOREF Erasmus Mundus project.
 
 
