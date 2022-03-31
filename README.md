@@ -8,3 +8,5 @@ The BIOREF Erasmus Mundus Joint Master Degree is a master’s program in the fie
 
 
 #### [Python installers](https://www.anaconda.com/products/distribution)
+#### [A collection of examples](https://github.com/sbednarz/modeling)
+#### [Python for Computational Science and Engineering](https://fangohr.github.io/introduction-to-python-for-computational-science-and-engineering/)
