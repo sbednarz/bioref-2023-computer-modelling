@@ -11,7 +11,7 @@ For more information please visit: https://master-bioref.eu/
 
 ## List of the course materials:
 
-[Python basics](01/)
+[1. Python basics](01/)
 
 
 
