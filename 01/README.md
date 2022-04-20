@@ -1,5 +1,7 @@
 ## Python basics
 
+### Code examples
+
 [01 intro.ipynb](01/01_intro.ipynb)
 
 [02 arrays.ipynb](01/02_arrays.ipynb)
