@@ -6,7 +6,8 @@
 
 [example01.ipynb](example01.ipynb)
 
-[exercise01.ipynb](exercise01.ipynb)
+[example02.ipynb](example02.ipynb)
+
 
 
 #### Supplementary materials:
