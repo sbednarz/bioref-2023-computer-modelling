@@ -4,6 +4,8 @@
 
 [solver.ipynb](02/solver.ipynb)
 
+[example01.ipynb](02/example01.ipynb)
+
 
 #### Supplementary materials:
 
