@@ -1,5 +1,9 @@
 ## Mass balance under steady-state conditions
 
+
+[solver.ipynb](02/solver.ipynb)
+
+
 #### Supplementary materials:
 
 Mass fraction: https://en.wikipedia.org/wiki/Mass_fraction_(chemistry)
