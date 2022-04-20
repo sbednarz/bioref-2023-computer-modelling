@@ -1,6 +1,6 @@
 ## Mass balance under steady-state conditions
 
-Supplementary materials:
+#### Supplementary materials:
 
 Mass fraction: https://en.wikipedia.org/wiki/Mass_fraction_(chemistry)
 
