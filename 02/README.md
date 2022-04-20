@@ -2,10 +2,10 @@
 
 Supplementary materials:
 
-https://en.wikipedia.org/wiki/Mass_fraction_(chemistry)
+Mass fraction: https://en.wikipedia.org/wiki/Mass_fraction_(chemistry)
 
-https://en.wikipedia.org/wiki/Mole_fraction
+Mole fraction: https://en.wikipedia.org/wiki/Mole_fraction
 
-https://www.youtube.com/watch?v=10qbOTikL1k
+General Balance for Material Balances: https://www.youtube.com/watch?v=10qbOTikL1k
 
-https://www.youtube.com/watch?v=UGVEtzgR0lw
+Material Balance Problem Approach: https://www.youtube.com/watch?v=UGVEtzgR0lw
