@@ -1,5 +1,6 @@
 ## Mass balance under steady-state conditions
 
+### Code examples
 
 [solver.ipynb](02/solver.ipynb)
 
