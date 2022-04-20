@@ -1,6 +1,6 @@
 ## Python basics
 
-### Code examples
+#### Code examples
 
 [01 intro.ipynb](01/01_intro.ipynb)
 
