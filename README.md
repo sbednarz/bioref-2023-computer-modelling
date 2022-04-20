@@ -12,6 +12,7 @@ For more information please visit: https://master-bioref.eu/
 ## List of the course materials:
 
 [1. Python basics](01/)
+[2. Mass balance under steady-state conditions](02/)
 
 
 
