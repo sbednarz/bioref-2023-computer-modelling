@@ -2,9 +2,9 @@
 
 #### Code examples
 
-[solver.ipynb](02/solver.ipynb)
+[solver.ipynb](solver.ipynb)
 
-[example01.ipynb](02/example01.ipynb)
+[example01.ipynb](example01.ipynb)
 
 
 #### Supplementary materials:
