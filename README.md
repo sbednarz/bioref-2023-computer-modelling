@@ -17,6 +17,9 @@ For more information please visit: https://master-bioref.eu/
 
 [3. Mass balance on reactive system](03/)
 
+4. Chemical Equilibrium
+
+5. Kinetics of multiple reactions
 
 
 ## Usefull links:
