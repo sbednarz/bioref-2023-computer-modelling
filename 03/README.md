@@ -3,7 +3,7 @@
 
 #### Code examples
 
-[introduction.ipynb](introduction.ipynb)
+[intro.ipynb](intro.ipynb)
 
 [exercises.ipynb](exercises.ipynb)
 
