@@ -13,5 +13,7 @@
 
 Batch Reactor with Reversible Reaction: https://www.youtube.com/watch?v=Z_Ltf60vxz8
 
+Batch Reactor with Multiple Reactions: https://www.youtube.com/watch?v=-vuJnQLLkf4
+
 General-purpose, stand-alone stochastic chemical kinetics simulator: https://hinsberg.net/kinetiscope/
 
