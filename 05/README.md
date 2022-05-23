@@ -7,6 +7,7 @@
 
 [02.ipynb](02.ipynb)
 
+[03.ipynb](03.ipynb) - more advanced examples
 
 
 #### Supplementary materials:
