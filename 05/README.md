@@ -9,6 +9,8 @@
 
 [03.ipynb](03.ipynb) - more advanced examples
 
+[04.ipynb](04.ipynb) - non-isothermal conditions
+
 
 #### Supplementary materials
 
