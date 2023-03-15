@@ -8,6 +8,7 @@ For more information please visit: https://master-bioref.eu/
 [:arrow_forward: Click here to start Python/Jupyter in free MyBinder cloud and use the course materials](http://mybinder.org/v2/gh/sbednarz/bioref-2023-computer-modelling/main)
 
 
+[:arrow_forward: Jupyter Python in Google cloud](https://colab.research.google.com/)
 
 ## List of the course units:
 
